@@ -1,2 +1,2 @@
-# NetflixAplication
- Simulador de la aplicacion Netflix, donde el usuario ingresa la pelicula o serie que desea ver y aparece ne pantalla.
+# MaterialList
+ Programa que permite ingresar materiales y eliminarlos del mismo.
